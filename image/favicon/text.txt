@@ -1,0 +1,11 @@
+favicon cho từng devices
+1️⃣ File cơ bản
+favicon.ico
+favicon-16x16.png
+favicon-32x32.png
+🔹 2️⃣ Apple
+apple-touch-icon.png (180x180)
+🔹 3️⃣ Android / PWA
+android-chrome-192x192.png
+android-chrome-512x512.png
+site.webmanifest
